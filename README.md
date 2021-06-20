@@ -2,8 +2,8 @@
 
 My name is Mustapha (pronounced *moos-ta-fa* not *moo-fa-sa*), and I am currently working and researching on:
 
-- Analytics for fast paced sports:
-  - Events detection :soccer:
+- Analytics for fast paced sports: (:soccer: :basketball: :hockey:)
+  - Events detection.
   - Frame annotation.
   - Analysis of tracking and events data.
   
