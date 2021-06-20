@@ -12,8 +12,8 @@ My name is Mustapha (pronounced *moos-ta-fa* not *moo-fa-sa*), and I am currentl
   - Deep learning for medical diagnosis :hospital:
   - Glaucoma diagnosis using the Retina Fundus Images for Glaucoma Analysis (RIGA) dataset :eye:
 
-<img align = "left" width = "600" src = "normalVsGlaucomatous.png" alt = "glaucoma"/>
-<img align = "right" width = "400" src = "lungs.gif" alt = "diagnosis"/>
+<img align = "left" width = "300" src = "normalVsGlaucomatous.png" alt = "glaucoma"/>
+<img align = "right" width = "300" src = "lungs.gif" alt = "diagnosis"/>
 
 I **enjoy** talking about coding and new project ideas, so don't hesitate to say hi!
 
