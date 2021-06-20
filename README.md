@@ -1,9 +1,9 @@
-# Hello Earthlings!
+<h1 align = "center">Hello Earthlings!</h1>
 
 My name is Mustapha (pronounced *moos-ta-fa* not *moo-fa-sa*), and I am currently working and researching on:
 
 - Analytics for fast paced sports:
-  - Events detection.
+  - Events detection :soccer:
   - Frame annotation.
   - Analysis of tracking and events data.
   
