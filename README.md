@@ -2,11 +2,14 @@
 
 My name is Mustapha (pronounced *moos-ta-fa* not *moo-fa-sa*), and I am currently working and researching on:
 
-- Analytics for fast paced sports 
+- Analytics for fast paced sports:
+ 
   -Events detection
   -Frame annotation
   -Analysis of tracking and events data
-- Healthcare AI 
+  
+- Healthcare AI: 
+
   -Deep learning for medical diagnosis
   -Glaucoma diagnosis using the Retina Fundus Images for Glaucoma Analysis (RIGA) dataset
 
