@@ -4,9 +4,9 @@ My name is Mustapha (pronounced *moos-ta-fa* not *moo-fa-sa*), and I am currentl
 
 - Analytics for fast paced sports:
  
-  -Events detection
-  -Frame annotation
-  -Analysis of tracking and events data
+*Events detection.
+*Frame annotation.
+*Analysis of tracking and events data.
   
 - Healthcare AI: 
 
