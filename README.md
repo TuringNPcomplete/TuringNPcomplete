@@ -10,6 +10,10 @@ My name is Mustapha (pronounced *moos-ta-fa* not *moo-fa-sa*), and I am currentl
   - Deep learning for medical diagnosis :hospital:
   - Glaucoma diagnosis using the Retina Fundus Images for Glaucoma Analysis (RIGA) dataset :eye:
 
+I **enjoy** talking about coding and new project ideas, so don't hesitate to say hi!
+
+
+
 <img align = "left" width = "400" src = "normalVsGlaucomatous.png" alt = "glaucoma"/>
 <img align = "right" width = "400" src = "lungs.gif" alt = "diagnosis"/>
 <img align = "center" width = "500" src = "soccer.gif" alt = "sports"/>
@@ -20,7 +24,7 @@ My name is Mustapha (pronounced *moos-ta-fa* not *moo-fa-sa*), and I am currentl
 
 
 
-I **enjoy** talking about coding and new project ideas, so don't hesitate to say hi!
+
 
 
 
