@@ -6,12 +6,14 @@ My name is Mustapha (pronounced *moos-ta-fa* not *moo-fa-sa*), and I am currentl
   - Events detection.
   - Frame annotation.
   - Analysis of tracking and events data.
-<img width = "400" src = "soccer.gif" alt = "sports"/>
+<img width = "500" src = "soccer.gif" alt = "sports"/>
   
 - Healthcare AI: 
   - Deep learning for medical diagnosis :hospital:
   - Glaucoma diagnosis using the Retina Fundus Images for Glaucoma Analysis (RIGA) dataset :eye:
-<img width = "400" src = "lungs.gif" alt = "diagnosis"/>
+
+<img align = "left" width = "600" src = "normalVsGlaucomatous.png" alt = "glaucoma"/>
+<img align = "right" width = "400" src = "lungs.gif" alt = "diagnosis"/>
 
 I **enjoy** talking about coding and new project ideas, so don't hesitate to say hi!
 
