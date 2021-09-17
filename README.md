@@ -1,4 +1,4 @@
-<h1 align = "center">Hello Earthlings!</h1>
+<h1 align = "center">Hello Earthling,</h1>
 
 My name is Mustapha (pronounced *moos-ta-fa* not *moo-fa-sa*), and I am currently working and researching on:
 
