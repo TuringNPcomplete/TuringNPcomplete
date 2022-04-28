@@ -2,6 +2,9 @@
 
 My name is Mustapha (pronounced *moos-ta-fa* not *moo-fa-sa*), and I am currently working and researching on:
 
+- Marketing Analytics:
+  - Churn and uplift modeling
+
 - Analytics for fast paced sports: (:soccer: :basketball: :ice_hockey:)
   - Events detection.
   - Frame annotation.
